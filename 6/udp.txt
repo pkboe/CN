@@ -1,0 +1,12 @@
+//input file udp.txt
+
+R.H.Sapat college of Engineering
+Welcome to GESCOE CNlab
+This is UDP FileTransfer Program
+
+
+//output file ud1.txt
+R.H.Sapat college of Engineering
+Welcome to GESCOE CNlab
+This is UDP FileTransfer Program
+
